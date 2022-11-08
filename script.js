@@ -15,5 +15,5 @@ console.log(nome + cognome + colore + divisione);
 document.getElementById("tuonome").innerHTML = nome;
 document.getElementById("tuocognome").innerHTML = cognome;
 document.getElementById("tuocolore").innerHTML = colore;
-document.getElementById("tuapassword").innerHTML = console;
-document.getElementById("utente").innerHTML = nome;
+document.getElementById("tuapassword").innerHTML = nome + cognome + colore + divisione;
+document.getElementById("utente").innerHTML = nome + " " + cognome;
