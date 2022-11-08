@@ -8,3 +8,4 @@ document.getElementById("tuonome").innerHTML = nome;
 document.getElementById("tuocognome").innerHTML = cognome;
 document.getElementById("tuocolore").innerHTML = colore;
 document.getElementById("tuapassword").innerHTML = console.log;
+document.getElementById("utente").innerHTML = nome;
