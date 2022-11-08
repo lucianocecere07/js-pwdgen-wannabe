@@ -7,5 +7,5 @@ console.log(nome + cognome + colore + "21");
 document.getElementById("tuonome").innerHTML = nome;
 document.getElementById("tuocognome").innerHTML = cognome;
 document.getElementById("tuocolore").innerHTML = colore;
-document.getElementById("tuapassword").innerHTML = console.log;
+document.getElementById("tuapassword").innerHTML = console;
 document.getElementById("utente").innerHTML = nome;
