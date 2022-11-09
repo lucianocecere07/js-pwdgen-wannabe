@@ -10,7 +10,10 @@ numero1 = parseInt(numero1);
 numero2 = parseInt(numero2);
 divisione = numero1 / numero2;
 
-console.log(nome + cognome + colore + divisione);
+console.log("Nome: " + nome);
+console.log("Cognome: " + cognome);
+console.log("Colore: " + colore);
+console.log("Password: " + nome + cognome + colore + divisione);
 
 document.getElementById("tuonome").innerHTML = nome;
 document.getElementById("tuocognome").innerHTML = cognome;
