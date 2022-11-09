@@ -7,6 +7,17 @@
     font-weight: bolder;
     font-size: larger;
 } 
-#descrizione {
+#descrizionenome {
     font-weight: bolder;
 }
+#descrizionecognome {
+    font-weight: bolder;
+}
+#descrizionecolore {
+    font-weight: bolder;
+}
+#descrizionepassword {
+    font-weight: bolder;
+}
+
+/* W3C Validator dava: Duplicate ID con solo #descrizione */
